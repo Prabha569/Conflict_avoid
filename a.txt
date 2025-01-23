@@ -1,3 +1,5 @@
 welcome to a.txt file
 java
 jsp
+Second line added
+Third line added
