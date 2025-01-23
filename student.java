@@ -3,4 +3,6 @@ class Student{
   String name="prabha";
   String addrs="chatrapur";
   Boolean bo="true";
+  String name="Rama";
+  String addrs="Ganjam"
 }
